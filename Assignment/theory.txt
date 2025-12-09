@@ -1,0 +1,84 @@
+1. Explain Python’s Role in Data Science
+Ans ::
+
+1. Easy to Learn
+
+Simple syntax, beginner-friendly
+
+Faster to develop and test ideas
+
+2. Powerful Libraries
+
+Tools for data science available
+
+Examples: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow
+
+3. Data Analysis
+
+Python helps clean, manipulate, and analyze data efficiently
+
+4. Data Visualization
+
+Creates charts and graphs to understand data
+
+Libraries: Matplotlib, Seaborn
+
+5. Machine Learning & AI
+
+Build prediction models and neural networks
+
+Libraries: Scikit-Learn, TensorFlow, PyTorch
+
+6. Automation
+
+Automates repetitive tasks such as data cleaning or scraping
+
+7. Community Support
+
+Large global community for help and learning resources
+
+8. Integration
+
+Works well with databases, cloud systems, and big-data platforms (Hadoop, Spark)
+
+
+--------------------------------------------------------------------
+2. Presentation: Object-Oriented Programming (OOP) Concepts in Python
+
+Ans ::
+
+1. Class
+
+A blueprint used to create objects.
+
+Contains data (attributes) and methods (functions).
+
+2. Object
+
+An instance of a class.
+
+Represents real-world entities.
+
+3. Inheritance
+
+One class can acquire properties and methods of another class.
+
+Helps in code reuse and hierarchical relationships.
+
+4. Polymorphism
+
+Same function name can perform different tasks based on context.
+
+Increases flexibility in programming.
+
+5. Encapsulation
+
+Protects data by restricting direct access.
+
+Uses methods to control modification of variables.
+
+6. Abstraction
+
+Shows only essential details and hides complexity.
+
+Focuses on what an object does rather than how.
